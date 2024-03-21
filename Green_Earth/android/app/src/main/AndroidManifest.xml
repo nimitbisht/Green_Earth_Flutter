@@ -37,7 +37,7 @@
         android:icon="@mipmap/ic_launcher">
 
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyDmMsO2dtcE3SFNjYmK9COfHeR1tBYgxsY"/>
+           android:value="Enter Key HERE"/>
 
         <activity
             android:name=".MainActivity"
