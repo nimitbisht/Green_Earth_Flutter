@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "487168999485",
+    "project_id": "green-earth-65275",
+    "storage_bucket": "green-earth-65275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487168999485:android:f270c80daea06160aa2a54",
+        "android_client_info": {
+          "package_name": "com.example.greenearth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487168999485-j1n6fsfh795a8le17kaq8ajb8gu0kngr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greenearth",
+            "certificate_hash": "87a837f10cd6aae9aee32660deb540f982805d4e"
+          }
+        },
+        {
+          "client_id": "487168999485-8krf5v9o56b2q6ehrsfm4namq2894k0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPlhqDseXhPZGVV955vYBCoJ8HwFItNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487168999485-8krf5v9o56b2q6ehrsfm4namq2894k0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
